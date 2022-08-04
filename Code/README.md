@@ -1,4 +1,1 @@
-# FinalProject
 
-
-- Ideas
